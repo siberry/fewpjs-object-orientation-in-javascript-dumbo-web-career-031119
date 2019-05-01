@@ -46,7 +46,7 @@ whenever anyone clicks the 'like' button.
 Great, but what happens when we start to expand further? Right now we only have
 the one message from Byron. What if we could have multiple messages to like?
 More functions would be needed. We'd probably have to modify the code that we
-have, as well, making it a more complicated.
+have, as well, making it more complicated.
 
 Continuing to expand our app, what about displaying a list of names of people
 who liked this post? More code is needed. How about being able to post our _own_
@@ -322,7 +322,7 @@ takes some practice to think in the OO mindset.
 
 ## Conclusion
 
-There is a lot to involved in writing Object Oriented code. In the upcoming
+There is a lot involved in writing Object Oriented code. In the upcoming
 lessons, we will build `class`es from scratch and talk about the different ways
 we can design them. Later on, we will introduce `class` interactions and how
 many instances of different `class`es can work together. Object Orientation
